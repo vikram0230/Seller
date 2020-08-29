@@ -2,7 +2,9 @@
 
 A new Flutter application.
 
-<img src="https://github.com/vikram0230/Seller/blob/master/assets/UI%20Design.jpg" height=400>
+# UI Design
+
+<img src="https://github.com/vikram0230/Seller/blob/master/assets/UI%20Design.jpg" height=800>
 
 ## Getting Started
 
