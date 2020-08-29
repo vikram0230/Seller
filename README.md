@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+<img src="https://github.com/vikram0230/Seller/blob/master/assets/UI%20Design.jpg" height=400>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
